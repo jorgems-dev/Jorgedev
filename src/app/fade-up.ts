@@ -2,6 +2,7 @@ import { AfterViewInit, Directive, ElementRef } from '@angular/core';
 
 @Directive({
   selector: '[appFadeUp]',
+  standalone: true,
 })
 export class FadeUp implements AfterViewInit{
 

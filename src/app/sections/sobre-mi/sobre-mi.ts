@@ -5,7 +5,7 @@ import { FadeUp } from '../../fade-up';
   selector: 'app-sobre-mi',
   imports: [FadeUp],
   templateUrl: './sobre-mi.html',
-  styleUrl: './sobre-mi.css',
+  styleUrls: ['./sobre-mi.css']
 })
 export class SobreMi {
 
