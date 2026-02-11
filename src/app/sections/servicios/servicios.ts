@@ -8,5 +8,4 @@ import { FadeUp } from "../../fade-up";
   styleUrl: './servicios.css',
 })
 export class Servicios {
-
 }
